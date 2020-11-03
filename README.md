@@ -7,3 +7,5 @@ For the UNCC EE C Programming Class
   - sub item two
   -Matthew is here
   -(11/3/2020)
+  - Daniel is here
+  - (11/3/2020)
