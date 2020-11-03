@@ -5,4 +5,5 @@ For the UNCC EE C Programming Class
 - another item
   - sub item one
   - sub item two
-- Biya Miressa was here (biyamir) (11/3/20) 
+  - Matthew DiVittorio (mdivitto) is here
+  - (11/3/2020)
