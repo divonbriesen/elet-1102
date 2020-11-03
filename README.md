@@ -5,7 +5,5 @@ For the UNCC EE C Programming Class
 - another item
   - sub item one
   - sub item two
-  - Matthew DiVittorio (mdivitto) is here
-  - (11/3/2020)
-
-## A sample of c code: https://onlinegdb.com/SJxRfQkFP
+- Biya Miressa was here (biyamir) (11/3/20) 
+- Aidan was here (11/3/20) 
